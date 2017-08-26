@@ -1,4 +1,5 @@
 # Implementation of batch-normalized LSTM.
+# https://github.com/jihunchoi/recurrent-batch-normalization-pytorch/
 import torch
 from torch import nn
 from torch.autograd import Variable
